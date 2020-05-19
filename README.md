@@ -8,7 +8,7 @@ We keep writing the code until all the tests are passed. Once the tests are pass
 
 To run this program, download TDD.py and Config.txt file into your machine and put them inside a folder. Open a terminal and navigate 
 to that folder and execute the command:
-$ python –m unittest TDD.py
+python –m unittest TDD.py
 
 Expected output of the code runs succesfully:
 ########
